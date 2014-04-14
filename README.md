@@ -16,4 +16,5 @@ Once a color is selected, the cards will show up in alphabetical order. There wi
 
 When the correct card is found it will pull up a picture of the artwork on the card, as well as the information on the card, such as cost to play, power/toughness, etc.
 
+===================
 Spring 2014
