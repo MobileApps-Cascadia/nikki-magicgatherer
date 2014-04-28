@@ -1,0 +1,42 @@
+.ui-body-c, .ui-overlay-c { 
+background-image:url(MTGBGGradient.gif);
+background-size:cover;
+}
+
+a.ui-link-inherit {
+background:#BE8F75;
+}
+
+h1.ui-li-heading {
+	color:#FFFFFF;
+	font:"Florante at Laura";
+	font-size:20px;
+}
+
+p.ui-li-desc {
+	color:#FFFFFF;
+	font:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+input.ui-input-text.ui-body-c {
+	color:#FFFFFF;
+}
+
+form.ui-listview-filter.ui-bar-c {
+	background-image:url(MTGBGGradient.gif);
+	background-size:cover;
+}
+
+span.ui-btn-inner {
+	background:#000000;
+}
+
+h2 {
+	color:#FFFFFF;
+}
+
+p {
+	color:#FFFFFF;
+}
+
+
